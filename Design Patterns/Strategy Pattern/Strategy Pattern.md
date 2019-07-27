@@ -130,3 +130,4 @@ public class Test {
 
 只需要简单的编写一个用竹蜻蜓飞行的行为实现类和狗叫的行为实现类分别实现飞行接口和叫接口，再给竹蜻蜓鸭设置这两个行为就好了。
 
+![duck](https://github.com/lsqg/StudyNotes/blob/master/Design%20Patterns/Strategy%20Pattern/duck.png)
