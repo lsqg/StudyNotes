@@ -137,7 +137,7 @@ public class Test {
 那么当你的鸭子行为发生变化时，你不用去修改鸭子类，你只需要修改行为类，并且你可以去动态的赋予鸭子不同行为，提升了系统的弹性。
 假设这里用继承得来鸭子行为，那么当鸭子的行为需要变化的时候，你需要修改鸭子类，如果要改很多处地方的话，就会相当的麻烦。
 
-![duck](https://github.com/lsqg/StudyNotes/blob/master/Design%20Patterns/Strategy%20Pattern/duck.png)
+![duck](https://lsqg.github.io/Design%20Patterns/Strategy%20Pattern/duck.png)
 
 这个技巧就是***多用组合，少用继承***，不过组合也有缺点
 > ***不是只有继承才可以实现代码的复用。***
